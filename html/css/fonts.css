@@ -1,0 +1,65 @@
+
+@font-face{
+    font-family: "PT Sans";
+    src: url(../fonts/PT_sans-Web-Regular.ttf);
+    font-weight: normal;
+    font-style: none;
+}
+@font-face{
+    font-family: "PT Sans";
+    src: url(../fonts/PT_sans-Web-Bold.ttf);
+    font-weight: bold;
+    font-style: none;
+}
+@font-face{
+    font-family: "PT Sans";
+    src: url(../fonts/PT_sans-Web-Italc.ttf);
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face{
+    font-family: "Oswald";
+    src: url(../fonts/Oswald-Medium.ttf);
+    font-weight: normal;
+    font-style: none;
+}
+@font-face{
+    font-family: "Oswald";
+    src: url(../fonts/Oswald-SemiBold.ttf);
+    font-weight: bold;
+    font-style: none;
+}
+@font-face{
+    font-family: "Raleway-Black";
+    src: url(../fonts/Raleway-Black.ttf);
+    font-weight: normal;
+    font-style: none;
+}
+@font-face{
+    font-family: "Raleway-Black";
+    src: url(../fonts/Raleway-BlackItalic.ttf);
+    font-weight: bold;
+    font-style: none;
+}
+@font-face{
+    font-family: "Comfortaa";
+    src: url(../fonts/Comfortaa-Regular.ttf);
+    font-weight: normal;
+    font-style: none;
+}
+@font-face{
+    font-family: "Comfortaa";
+    src: url(../fonts/Comfortaa-Bold.ttf);
+    font-weight: bold;
+    font-style: none;
+}
+@font-face{
+    font-family: "Comfortaa";
+    src: url(../fonts/Comfortaa-Light.ttf);
+    font-weight: normal;
+    font-style: italic;
+}
+
+
+
